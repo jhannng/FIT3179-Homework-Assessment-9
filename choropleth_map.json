@@ -52,7 +52,7 @@
                     "lookup": "properties.Name",
                     "from": {
                         "data": {
-                            "url": "Data/population_state.csv"
+                            "url": "data/population_state.csv"
                         },
                         "key": "State",
                         "fields": [
