@@ -41,7 +41,7 @@
         },
         {
             "data": {
-                "url": "malaysia-states.topojson",
+                "url": "https://raw.githubusercontent.com/jhannng/FIT3179-Homework-Assessment-9/main/malaysia-states.topojson",
                 "format": {
                     "type": "topojson",
                     "feature": "states"
@@ -52,7 +52,7 @@
                     "lookup": "properties.Name",
                     "from": {
                         "data": {
-                            "url": "data/population_state.csv"
+                            "url": "https://raw.githubusercontent.com/jhannng/FIT3179-Homework-Assessment-9/main/data/population_state.csv"
                         },
                         "key": "State",
                         "fields": [
